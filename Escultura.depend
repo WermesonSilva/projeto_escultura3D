@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1616345700 source:c:\users\swerm\documents\c++\escultura\main.cpp
+	<iostream>
+	"classe_Sculptor.h"
+
+1615232813 source:c:\users\swerm\documents\c++\escultura\setcolor.cpp
+	"classe_Sculptor.h"
+
+1616621100 c:\users\swerm\documents\c++\escultura\classe_sculptor.h
+
+1615419448 source:c:\users\swerm\documents\c++\escultura\sculptor.cpp
+	"classe_Sculptor.h"
+
+1615314410 source:c:\users\swerm\documents\c++\escultura\geta.cpp
+	"classe_Sculptor.h"
+
+1615321985 source:c:\users\swerm\documents\c++\escultura\putvoxel.cpp
+	"classe_Sculptor.h"
+
+1615319941 source:c:\users\swerm\documents\c++\escultura\writeoff.cpp
+	"classe_Sculptor.h"
+	<iostream>
+	<fstream>
+
+1615375143 source:c:\users\swerm\documents\c++\escultura\cutvoxel.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura\putbox.cpp
+	"classe_Sculptor.h"
+
+1615376713 source:c:\users\swerm\documents\c++\escultura\cutbox.cpp
+	"classe_Sculptor.h"
+
+1615421861 source:c:\users\swerm\documents\c++\escultura\putsphere.cpp
+	"classe_Sculptor.h"
+
+1615421911 source:c:\users\swerm\documents\c++\escultura\cutsphere.cpp
+	"classe_Sculptor.h"
+
+1615421995 source:c:\users\swerm\documents\c++\escultura\putellipsoid.cpp
+	"classe_Sculptor.h"
+
+1615422376 source:c:\users\swerm\documents\c++\escultura\cutellipsoid.cpp
+	"classe_Sculptor.h"
+
